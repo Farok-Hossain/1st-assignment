@@ -1,0 +1,106 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+}
+span{
+    text-align: center;
+}
+a{
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 60px;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+h5{
+    font-size: 15px;
+}
+p{
+    font-size: 25px;
+}
+.orange-color{
+    color: orange;
+}
+.food-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 25px 60px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width2{
+    width: 40%;
+    padding-right: 2%;
+}
+.half-width3{
+    width: 50%;
+    padding-right: 15%;
+}
+.half-width img{
+    width: 60%;
+}
+
+.top-banner{
+    background-image: ;
+}
+.section2{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+}
+#i{
+    padding-top: 60px;
+    padding-left: 180px;
+    height: 700px;
+    width: 60%;
+}
+.second-div{
+    border-radius: 30px;
+    margin: 30px;
+    padding-left:0%;
+    padding-right: 0%;
+    box-shadow: 10px 10px 40px gray;
+}
+.sec{
+    display: flex;
+    padding: 5%;
+}
+.pic{
+    width: 80%;
+    border-radius: 5px;
+    padding: 40px 40px;
+}
+
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }    
